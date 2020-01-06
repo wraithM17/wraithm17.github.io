@@ -1,0 +1,20 @@
+body{ background-color:#000f89;font-family:"helvetica";margin:0px;
+
+}
+.main h1{color:aliceblue;font-size:3em;font-family:Lato;
+	position:relative;top:50px;
+
+}
+.main {height: 200px; width:100%;background-color:black;
+	position:relative;bottom:33px;
+
+}
+.span1:hover{color:#00bfff;
+
+}
+.span2 {color:#a7fc00;
+
+}
+.c1 {color:white;font-family:roboto;font-size:1.7em;
+
+}
