@@ -1,12 +1,8 @@
-body{ background-color:#000f89;font-family:"helvetica";margin:0px;
+body{ background-color:#333;font-family:"helvetica";margin:0px;
 
 }
 .main h1{color:aliceblue;font-size:3em;font-family:Lato;
 	position:relative;top:50px;
-
-}
-.main {height: 200px; width:100%;background-color:black;
-	position:relative;bottom:33px;
 
 }
 .span1:hover{color:#00bfff;
