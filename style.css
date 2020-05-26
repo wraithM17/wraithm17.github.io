@@ -1,0 +1,84 @@
+body {
+	background-color: #1c1f21;
+}
+
+
+
+
+.home{
+  height: 40rem;
+}
+
+
+.open-sans {
+  font-family: "Open Sans";
+}
+
+.comfortaa {
+  font-family: "Comfortaa";
+}
+
+.piedra {
+  font-family: "Piedra";
+}
+
+
+.cuprum {
+  font-family: "Cuprum";
+}
+
+
+.informal {
+  font-family: "Permanent Marker";
+}
+
+
+
+
+
+
+
+
+
+
+
+.loader {
+  border: 5px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 5px solid #9c34db;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 1s linear infinite; 
+  animation: spin 1s linear infinite;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+
+
+
+.glow {
+  color: #fff;
+  -webkit-animation: glow 2s ease-in-out infinite alternate;
+  -moz-animation: glow 2s ease-in-out infinite alternate;
+  animation: glow 2s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 1px #20a9bf, 0 0 10px #20a9bf, 0 0 15px #20a9bf;
+  }
+  to {
+    text-shadow: 0 0 1px #20a9bf, 0 0 150px #20a9bf, 0 0 20px #20a9bf;
+  }
+}
+
+
