@@ -1,5 +1,5 @@
 body {
-	background-color: #1c1f21;
+	background-color: #151718;
 }
 
 html, body {margin: 0; height: 100%; overflow: hidden}
@@ -13,7 +13,7 @@ a:hover {
 
 
 .home{
-  height: 40rem;
+  height: 100%;
 }
 
 

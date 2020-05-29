@@ -64,8 +64,7 @@ function home(){
 w3-border-red w3-text-white w3-large 
 w3-hover-red open-sans">PROJECTS</button><br><br><br>
 
-<a href="https://wraithm17.github.io/Quizely" 
-target="_blank" 
+<a href="https://wraithm17.github.io/Quizely"
 class="w3-btn w3-border w3-border-blue w3-text-white w3-large 
 w3-hover-blue open-sans">&nbsp;QUIZELY&nbsp;</a>
 
