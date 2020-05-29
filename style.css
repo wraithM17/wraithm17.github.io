@@ -2,6 +2,13 @@ body {
 	background-color: #1c1f21;
 }
 
+html, body {margin: 0; height: 100%; overflow: hidden}
+
+
+
+a:hover {
+  text-decoration:none;
+}
 
 
 
@@ -35,9 +42,9 @@ body {
 
 
 .close {
-    font-size:2rem;
+    font-size:3rem;
+    display:hidden;
 }
-
 
 
 
@@ -83,8 +90,23 @@ body {
     text-shadow: 0 0 1px #20a9bf, 0 0 10px #20a9bf, 0 0 15px #20a9bf;
   }
   to {
-    text-shadow: 0 0 1px #20a9bf, 0 0 150px #20a9bf, 0 0 20px #20a9bf;
+    text-shadow: 0 0 1px #20a9bf, 0 0 15px #20a9bf, 0 0 20px #20a9bf;
   }
 }
 
+.glow-less {
+  color: #fff;
+  -webkit-animation: glow 3s ease-in-out infinite alternate;
+  -moz-animation: glow 3s ease-in-out infinite alternate;
+  animation: glow 3s ease-in-out infinite alternate;
+}
 
+
+@-webkit-keyframes glow-less {
+  from {
+    text-shadow: 0 0 1px #20a9bf, 0 0 5px #20a9bf;
+  }
+  to {
+    text-shadow: 0 0 1px #20a9bf, 0 0 10px #20a9bf;
+  }
+}

@@ -57,11 +57,17 @@ function home(){
 
 <div id="main-content" class="text-center w3-display-middle">
 <span class="display-3 text-light informal">
-wraith<span id="M17">M17</span></span><br><br><br><br>
+<span class="glow-less">wraith</span><span id="M17">M17</span>
+</span><br><br><br><br>
 
 <button onclick="projects()" class="w3-btn w3-border 
 w3-border-red w3-text-white w3-large 
-w3-hover-red open-sans">PROJECTS</button>
+w3-hover-red open-sans">PROJECTS</button><br><br><br>
+
+<a href="https://wraithm17.github.io/Quizely" 
+target="_blank" 
+class="w3-btn w3-border w3-border-blue w3-text-white w3-large 
+w3-hover-blue open-sans">&nbsp;QUIZELY&nbsp;</a>
 
 </div>
 
