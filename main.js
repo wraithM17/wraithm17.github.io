@@ -33,9 +33,10 @@ function projects(){
 	<span class="display-2 lead cuprum w3-text-amber">PROJECTS</span>
 	<hr><br><br>
 
-	<h1 class="w3-text-teal open-sans">Lifely</h1><br>
-	<h1 class="w3-text-indigo open-sans">Quizely</h1><br>
-	<h1 class="w3-text-cyan open-sans">Cricket</h1><br><br>
+	<h1 class="w3-text-cyan comfortaa">Lifely</h1><br>
+	<h1 class="w3-text-cyan comfortaa">Quizely</h1><br>
+	<h1 class="w3-text-cyan comfortaa">Music</h1><br>
+	<h1 class="w3-text-cyan comfortaa">Blobs</h1><br><br>
 	<h3 class="text-light informal">And more...</h3><br>
 
 	</div>
@@ -62,8 +63,14 @@ function home(){
 
 <button onclick="projects()" class="w3-btn w3-border 
 w3-border-red w3-text-white w3-large 
-w3-hover-red open-sans">PROJECTS</button><br><br><br>
+w3-hover-red open-sans">PROJECTS</button><br><br>
 
+
+<a href="https://wraithm17.github.io/Music"
+class="w3-btn w3-border w3-border-blue w3-text-white w3-large 
+w3-hover-blue open-sans">&nbsp;MUSIC&nbsp;</a>
+
+<br><br>
 <a href="https://wraithm17.github.io/Quizely"
 class="w3-btn w3-border w3-border-blue w3-text-white w3-large 
 w3-hover-blue open-sans">&nbsp;QUIZELY&nbsp;</a>
